@@ -1,0 +1,147 @@
+body{
+    margin: 0;}
+
+.a1{
+    width:100%;
+    float:left;
+    background-color: black;}
+.a2{
+    width:15%;
+    float:left;
+    margin:0;
+    padding:0;}
+.a3{
+    width:40%;
+    float:right;}
+ul{
+      list-style-type: none;
+}
+li{
+      display:inline-block;
+      padding-right:40px;
+      color:white;
+      font-size:15px;
+      font-family:times new roman;
+}
+.p1{
+    font-family:'Times New Roman' ;
+    font-size: 15px;
+    color:blanchedalmond;
+    padding-left:10px;}
+.a4{
+        background-image: url("back.jpg");
+    background-repeat:none ;
+    background-size:cover ;
+    height:483px;
+    width:100%;
+
+}
+.p2{
+    color: blanchedalmond;
+    text-align:center;
+    font-size: 45px;
+    padding-top: 110px;
+    margin:0;
+}
+.p3{
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    margin:0;
+    padding:10px 0px;
+}
+.p4{
+    color:white;
+    text-align: right;
+    padding-top:40px;
+    padding-right: 130px;
+    font-size: 20px;
+    margin:0;
+}
+.p5{
+    text-align: right;
+    color:blanchedalmond;
+    padding:30px 226px 0 0;
+    font-size: 31px;
+    margin:0;
+    font-style: italic;
+}
+.p6{
+    text-align: right;
+    margin:0;
+    padding:17px 25px 0 0;
+    font-size: 15px;
+    color:blanchedalmond;
+}
+button{
+    background-color: black;
+    color:blanchedalmond;
+    border-radius: 14px;
+    padding:3px;
+}
+.a5{
+    background-color: black;
+    width:100%;
+    float:left;
+}
+.p7{
+    color:white;
+    margin:0;
+    font-size: 15px;
+    text-align: center;
+
+}
+.u1{
+    list-style:none ;
+    text-align: center;
+    margin:33px;
+}
+.p8{
+    color:white;
+    text-align: center;
+    margin: 0;
+
+}
+.a6{
+    background-color: black;
+    padding:20px 0 0 0;
+    
+}
+label{
+    color:white;
+    padding:0 20px;
+
+}
+h4{
+    color:white;
+    margin:0;
+    padding:0 0 13px 75px;
+}
+
+.b1{
+    float:left;
+    width:50%;
+}
+.b2{
+    float:right;
+    width:50%;
+    padding:20px 0 0 0;
+}
+form{
+    padding:10px 0 0 30px;
+}
+.i2{
+    margin:0 0 5px 0;
+}
+.i1{
+    margin: 0 0 5px 45px;
+}
+.btn{
+    background-color: black;
+    color:blanchedalmond;
+    border-radius: 3px;
+    padding:3px;
+    font-size: 10px;
+    margin:10px 0 0 71px;
+}
